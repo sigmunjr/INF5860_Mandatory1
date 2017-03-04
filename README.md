@@ -98,6 +98,9 @@ assumes that your virtual environment is named `.env`.
 
 
 ### Submitting your work:
-Whether you work on the assignment locally or using Terminal, once you are done
-working run the `collectSubmission.sh` script; this will produce a file called
+Once you are done working, run the `collectSubmission.sh` script; this will produce a file called
 `INF5860_Oblig1.zip`. 
+
+Then upload the zip-file file to [devilry](devilry.ifi.uio.no) (devilry.ifi.uio.no). You can make multiple submissions before the deadline.
+
+Good luck!
