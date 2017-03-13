@@ -57,7 +57,7 @@ to make sure that all dependencies for the code are installed globally on your
 machine. To set up a virtual environment, run the following:
 
 ```bash
-cd assignment2
+
 sudo pip install virtualenv      # This may already be installed
 virtualenv .env                  # Create a virtual environment
 source .env/bin/activate         # Activate the virtual environment
