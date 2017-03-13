@@ -68,7 +68,7 @@ deactivate                       # Exit the virtual environment
 
 **Download data:**
 Once you have the starter code, you will need to download the CIFAR-10 dataset.
-Run the following from the `assignment2` directory:
+Run the following from the main directory of the code:
 
 ```bash
 cd code/datasets
